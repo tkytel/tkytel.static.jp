@@ -4,4 +4,13 @@ body {
   font-family: sans-serif;
   padding-inline: min(20px, 5%);
 }
+.center {
+  text-align: center;
+}
+.phone:before {
+  display: block;
+  content: '\0260E\0FE0F';  /* TELEPHONE Emoji with colour */
+  font-size: 2em;
+  line-height: 1.1em;
+}
 /* ex: se et ts=2 : */
