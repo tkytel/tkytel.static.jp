@@ -1,0 +1,8 @@
+body {
+  max-width: 40rem;
+  margin-inline: auto;
+  font-family: sans-serif;
+  padding-left: min(20px, 5%);
+  padding-right: min(20px, 5%);
+}
+/* ex: se et ts=2 : */
