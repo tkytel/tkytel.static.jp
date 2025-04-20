@@ -13,4 +13,11 @@ body {
   font-size: 2em;
   line-height: 1.1em;
 }
+img {
+  max-width: 100%;
+  height: auto;
+}
+figure {
+  text-align: center;
+}
 /* ex: se et ts=2 : */
