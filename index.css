@@ -1,9 +1,3 @@
-body {
-  max-width: 40rem;
-  margin-inline: auto;
-  font-family: sans-serif;
-  padding-inline: min(20px, 5%);
-}
 .center {
   text-align: center;
 }
@@ -12,10 +6,6 @@ body {
   content: '\0260E\0FE0F';  /* TELEPHONE Emoji with colour */
   font-size: 2em;
   line-height: 1.1em;
-}
-img {
-  max-width: 100%;
-  height: auto;
 }
 figure {
   text-align: center;
